@@ -1,0 +1,83 @@
+{
+    "Casa": [
+        {
+            "Quarto": [
+                {
+                    "Cama": [
+                        [ "Filho_Novo",
+                            {
+                                "Almofada": [
+                                    true,
+                                    "Mickey",
+                                    "Macia"
+                                ],
+                                "Cobertor": [
+                                    true,
+                                    "Mickey",
+                                    "Segura_Bem_O_Calor"
+                                ],
+                                "Colchao": [
+                                    true,
+                                    "Duro"
+                                ],
+                                "casal": false
+                            }
+                        ],
+                        ["Filho_Velho",
+                            {
+                                "Almofada": [
+                                    true,
+                                    "Avengers",
+                                    "Macia"
+                                ],
+                                "Cobertor": [
+                                    true,
+                                    "Miranha",
+                                    "Nao_Muito_Quente"
+                                ],
+                                "Colchao": [
+                                    true,
+                                    "Duro"
+                                ],
+                                "Casal": false
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "Comoda": [
+                        {
+                            "Guarda": [
+                                {
+                                    "Roupas": [
+                                        "Calças",
+                                        "Blusas_Todas_Pretas"
+                                    ]
+                                },
+                                {
+                                    "Sapatos": [
+                                        "Preto",
+                                        "Preto_Branco",
+                                        "Bota_Marrom"
+                                    ]
+                                },
+                                {
+                                    "Livros": [
+                                        "A_Bussola_De_Ouro",
+                                        "A_Faca_Sutil",
+                                        "Luneta_Ambar",
+                                        "Genealogia_Da_Moral",
+                                        "Cartas_De_Um_Diabo_A_Seu_Aprendiz"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "Sala",
+        "Banheiro",
+        "Cozinha"
+    ]
+}
