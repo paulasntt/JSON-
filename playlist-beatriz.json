@@ -1,0 +1,43 @@
+{
+
+    "Playlist": [
+        {
+            "Música": "Highway to Hell",
+            "Artista": "Ac/Dc"
+        },
+        {
+            "Música": "Back in Black",
+            "Artista": "Ac/Dc"
+        },
+        {
+            "Música": "Born this Way",
+            "Artista": "Lady Gaga"
+        },
+        {
+            "Música": "As Quatros Estações",
+            "Compositor": "Vivaldi"
+        },
+        {
+            "Música": "24º Capricho de Paganini",
+            "Compositor": "Niccolò Paganini"
+        },
+        {
+            "Música": "Fear of the Dark",
+            "Artista": "Iron Maiden"
+        },
+        {
+            "Música": "Bad Guy",
+            "Artista": "Billie Eilish"
+        },
+        {
+            "Música": "Burning Love",
+            "Artista": "Elvis Presley"
+        },
+        {
+            "Música": "Love of my Life",
+            "Artista": "Queen"
+        }
+    ]
+
+
+}
